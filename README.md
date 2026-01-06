@@ -1,10 +1,19 @@
-# Portifolio
-Personal Portifolio used to showcase/share personal projects that display my technical abilities.
+# Fictional Library System
 
-There are two separete folders, one with projects in portuguese and other with projects in english. Both are identical in content, so search the one that suits you best.
+A simple library system able to register up to 20 books in a collection.
+Each book can contain the following information:
 
--- PT/BR
+* Code.
+* Title.
+* Author.
+* Area.
+* Publisher.
+* Publish Year.
 
-Portifolio Pessoal usado para demonstrar/compartilhar projetos pessoais que demonstrem minhas habilidades técnicas.
+The system allows the user to:
 
-Existem duas pastas, uma com projetos em português, e outra com projetos em inglês. As duas são identicas em conteudo, então veja a que preferir.
+* Search for a book by it's code.
+* Print all the registered books and their information.
+* Organize all the registered book in numerical order based on their publish year.
+
+
